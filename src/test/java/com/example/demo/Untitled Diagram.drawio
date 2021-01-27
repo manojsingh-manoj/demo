@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T10:14:16.230Z" agent="5.0 (Windows)" version="14.2.7" etag="6jsPOBxwj2g6QsizGNgZ" type="github"><diagram id="rlO5L0vYaC4JWH6SSCyH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-27T11:18:41.683Z" agent="5.0 (Windows)" etag="kgakDALR-KeXes_u9o5D" version="14.2.7" type="github">
+  <diagram id="rlO5L0vYaC4JWH6SSCyH" name="Page-1">
+    <mxGraphModel dx="1093" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WiT1YoASDLNo4KMisF_A-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399ff;strokeWidth=2;" edge="1" parent="1" source="WiT1YoASDLNo4KMisF_A-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="177.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiT1YoASDLNo4KMisF_A-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#66CC00;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="162.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiT1YoASDLNo4KMisF_A-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399ff;strokeWidth=2;fontFamily=Helvetica;fontSize=10;fontColor=#3399FF;" edge="1" parent="1" source="WiT1YoASDLNo4KMisF_A-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="177.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiT1YoASDLNo4KMisF_A-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;fillColor=#009999;" vertex="1" parent="1">
+          <mxGeometry x="170" y="154.5" width="75.34" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WiT1YoASDLNo4KMisF_A-6" value="Logon Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontStyle=0;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WiT1YoASDLNo4KMisF_A-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;strokeColor=#FFFFFF;fillColor=#009999;" vertex="1" parent="1">
+          <mxGeometry x="320" y="154.5" width="49.77" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WiT1YoASDLNo4KMisF_A-10" value="SAML Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontStyle=0;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="245.34" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WiT1YoASDLNo4KMisF_A-11" value="VPC" style="shape=mxgraph.ibm.box;prType=vpc;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;fontFamily=Helvetica;fontSize=10;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="425" y="30" width="620" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
